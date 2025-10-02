@@ -19,7 +19,7 @@ This tool performs a WiFi deauthentication attack against a target network. It s
 - Wireless adapter capable of monitor mode
 
 ## Installation
-- git clone https://github.com/nandubidhe/wifi-ddos.git
+- git clone [https://github.com/nandubidhe/wifi-ddos.git](https://github.com/FathirAmanda/Toto.git)
 - cd wifi-ddos
 - python setup.py install
 
